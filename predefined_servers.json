@@ -1,0 +1,7 @@
+{
+    "servers": [
+        {"address": "127.0.0.1", "port": 8100, "public_key_path": "my_key_pair_8100/my_public_key.pem"},
+        {"address": "127.0.0.1", "port": 8200, "public_key_path": "my_key_pair_8200/my_public_key.pem"},
+        {"address": "127.0.0.1", "port": 8300, "public_key_path": "my_key_pair_8300/my_public_key.pem"}
+    ]
+}
